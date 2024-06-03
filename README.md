@@ -1,0 +1,1 @@
+# SQL-Advertising-System-Failures-Report
